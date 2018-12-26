@@ -1,1 +1,0 @@
-# adfly-web.js
